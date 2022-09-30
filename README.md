@@ -1,6 +1,6 @@
 Contexto
 
-Este proyecto esta basado en un pipeline creado hace algun tiempo para extraer informacion de anuncios de vehiculos usados en las paginas de crautos.com y purdyusados.com utilizando un framework conocido como Scrappy, el cual facilita la estructura de un proyecto de extraccion a mayor escala. Para accesar al codigo, pueden seguir el link a mi repositorio https://github.com/lalejandroeq/scrappy_vehicles
+Este proyecto esta basado en un pipeline creado hace algun tiempo para extraer informacion de anuncios de vehiculos usados en las paginas de crautos.com y purdyusados.com utilizando un framework conocido como Scrappy, el cual facilita la estructura de un proyecto de extraccion a mayor escala.
 
 Objetivos de negocio
 
